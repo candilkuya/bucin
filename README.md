@@ -1,0 +1,2 @@
+# bucin
+Script Bucin
